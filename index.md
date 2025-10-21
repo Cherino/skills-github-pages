@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: some words
 date: YYY-MM-DD
 ---
 
