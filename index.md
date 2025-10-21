@@ -1,6 +1,6 @@
 ---
 title: some words
-date: YYY-MM-DD
+date: 2025-10-21
 ---
 
 some slop about anything that may or not
